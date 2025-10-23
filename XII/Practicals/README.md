@@ -1,4 +1,4 @@
-## Practicals of XII
+# Practicals of XII
 - Physics
 - Chemistry
 - Computer
